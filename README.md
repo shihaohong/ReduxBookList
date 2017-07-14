@@ -1,6 +1,6 @@
 # ReduxBookList
 
-Source material comes from the Udemy Course -  [Redux](https://www.udemy.com/react-redux/)?
+Source material comes from the Udemy Course -  [Redux](https://www.udemy.com/react-redux/)
 
 Original author: Stephen Grider
 
